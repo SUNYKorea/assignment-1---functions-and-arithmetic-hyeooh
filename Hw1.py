@@ -1,11 +1,16 @@
 # Name:Hyeonseo Oh
 # SBUID:115262920
-
+##################### SCORE ######################
+####### Score:  4/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
 # ----------------- Convert Fahrenheit to Celsius -------------------------------
 # TODO: Complete the implementation of fahrenheit2celsius () and what_to_wear().
+
+
+######################Entire code without main method!! --> no output #########################
 
 def farenheit2celsius(farenheit):
     return 5/9*(farenheit-32)
