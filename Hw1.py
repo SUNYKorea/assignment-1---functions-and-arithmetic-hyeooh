@@ -1,7 +1,8 @@
 # Name:Hyeonseo Oh
 # SBUID:115262920
 ##################### SCORE ######################
-####### Score:  4/10
+####### Score:  7.5/10
+
 #################################################
 # Remove the ellipses (...) when writing your solutions.
 
